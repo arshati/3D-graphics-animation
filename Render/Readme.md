@@ -6,6 +6,12 @@
 ##### https://www.youtube.com/watch?v=b2FHeyTS0uw&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=4
 ##### https://www.youtube.com/watch?v=ARqvL3sQjjY&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=5
 #### How the scene was set up 
+- **Lighting**: The type of light used is a point light. It is positioned at (X: 5.74303m, Y: -5.18086m, Z: 3.82912m). The colour is white and the Power is 1000W.
+- **Objects**: There are 2 objects in the scene 'Cube.002' and 'Cube.002'.
+               The position of 'Cube.002' is (X: 1.4577m, Y: -1.6276m, Z: 0.36119m) and for'Cube.003' is (X: 1.0714m, Y: -1.0512m, Z: 1.6388m).
+               The rotations of 'Cube.002' is (X: 0, Y: 0, Z: 214.19) and for 'Cube.003' is (X: 0, Y: 0, Z: 214.19).
+  List all objects in the scene, their positions, rotations, and scales.
+- **Camera**: Explain the camera's position and settings, including focal length. 
 #### Render output 
 ![Treasure Chest](Blender_Project_Files_V1/Treasure_Chest/Treasure_Chest.png)
 
