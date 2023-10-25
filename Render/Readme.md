@@ -59,19 +59,36 @@ I made the island with mountains using the shape 'icosphere' with 3 subdivisions
 ### Render Output
 ![Floating_Island](Blender_Project_Files_V1/Floating_island_with_mountains_and_water/floating_island_with_mountains_and_water.png)
 
-##WORK DONE BY PRASITHA
+## WORK DONE BY PRASITHA
 
-###Pirate Ship
-###Reference
-####https://www.youtube.com/watch?v=qFeWNR33b_A&list=PLob6hbUtmU2PLtPpgVO0sKNBuBwP0tQ-z&index=1
+### Pirate Ship
+### Reference
+#### https://www.youtube.com/watch?v=qFeWNR33b_A&list=PLob6hbUtmU2PLtPpgVO0sKNBuBwP0tQ-z&index=1
 
-####How the scene was set up
+#### How the scene was set up
 The object was made from a cube that was extended from both sides and bent in the middle to get the boat shape. Then after using various options like S, G, K, R, I was able to get the base of the ship done.
 
 The poles with the sailing masts was done using 2 cylinders and 4 planes that were further edited upon to look like the ship is sailing forward..
 
 I positioned the camera to capture the ship from a side angle and used a pointing light positioned in the left side to get the shadow and colors of the ship after adding different material colors to perfect the model.
 
-###Render Output
+### Render Output
 (Blender_Project_Files_V1/ship/FINAL_ship.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
 
+### Flag Pole
+
+### How the scene was set up
+The flag pole was done using a cylinder which was adjusted using S and G and then a sphere was added on the top to make it more like a pole.
+The Flag part was done using a plane on which the edge i scaled and reduced to make it like a trianglular flag.
+Then furthermore i added material colors like red, black and beige to make it perfect and match the theme.
+
+### Render Output
+(Blender_Project_Files_V1/flag/flag.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
+
+### Clouds
+
+### How the scene was set up
+The clouds were done using a ico-sphere. I edited the sphere in skulpt mode to reshape and extended it. To make it more cloud looking i added curves and smoothened up the edges and add a material white color as well.
+
+### Render Output
+(Blender_Project_Files_V1/clouds/clouds.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
