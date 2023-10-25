@@ -73,7 +73,7 @@ The poles with the sailing masts was done using 2 cylinders and 4 planes that we
 I positioned the camera to capture the ship from a side angle and used a pointing light positioned in the left side to get the shadow and colors of the ship after adding different material colors to perfect the model.
 
 ### Render Output
-(Blender_Project_Files_V1/ship/FINAL_ship.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
+![Pirate_ship](Blender_Project_Files_V1/ship/FINAL_ship.png)
 
 ### Flag Pole
 
@@ -83,7 +83,7 @@ The Flag part was done using a plane on which the edge i scaled and reduced to m
 Then furthermore i added material colors like red, black and beige to make it perfect and match the theme.
 
 ### Render Output
-(Blender_Project_Files_V1/flag/flag.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
+![flag pole](Blender_Project_Files_V1/flag/flag.png)
 
 ### Clouds
 
@@ -91,4 +91,4 @@ Then furthermore i added material colors like red, black and beige to make it pe
 The clouds were done using a ico-sphere. I edited the sphere in skulpt mode to reshape and extended it. To make it more cloud looking i added curves and smoothened up the edges and add a material white color as well.
 
 ### Render Output
-(Blender_Project_Files_V1/clouds/clouds.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
+![clouds](Blender_Project_Files_V1/clouds/clouds.png)
