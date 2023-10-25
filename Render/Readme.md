@@ -35,3 +35,26 @@
 ##### https://www.youtube.com/watch?v=DSrmO3YoNRw&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=2
 #### Render output
 ![Rocks](Blender_Project_Files_V1/Rocks/Rocks.png)
+
+##Work done by Arshati
+
+### Trees
+### Reference
+#### https://youtu.be/_GkSvXj_HXw?si=k2MVzU17tE1Zwbeb
+
+#### https://www.youtube.com/watch?v=p-9pgZI3inI&ab_channel=GrantAbbitt
+#### How the scene was setup
+I made the trunk of two trees with the shape of cube and used a modifier named 'skin'. I made the trunk for the third tree with the shape of cylinder and adjusted according to how I wanted. To make it look like low poly, I used a modifier named 'decimate' and decreased the ratio.
+
+### Render Output
+![Trees](Blender_Project_Files_V1/Tree/tree.png)
+
+### Floating Island with Mountains and Water
+### Reference
+#### https://youtu.be/0lj643VmTsg?si=gXcWQiW0tKQM_BUs
+
+#### How the scene was setup
+I made the island with mountains using the shape 'icosphere' with 3 subdivisions and scaled it accordingly. For the water, I used the shape 'plane', adjusted it and made the water look glossy by adding a shader, transparent shader and glossy BSDF in the shader editor.
+
+### Render Output
+![Floating_Island](Blender_Project_Files_V1/Floating_island_with_mountains_and_water/floating_island_with_mountains_and_water.png)
