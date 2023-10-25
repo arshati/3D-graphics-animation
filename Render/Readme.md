@@ -6,6 +6,7 @@
 ##### https://www.youtube.com/watch?v=b2FHeyTS0uw&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=4
 ##### https://www.youtube.com/watch?v=ARqvL3sQjjY&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=5
 #### How the scene was set up 
+I made the treasure chest using the shape 'Cube', and used the bevel tool to make the top of the treasure chest.
 #### Render output 
 ![Treasure Chest](Blender_Project_Files_V1/Treasure_Chest/Treasure_Chest.png)
 
@@ -13,6 +14,7 @@
 #### Reference
 ##### https://www.youtube.com/watch?v=r8ltW7pAN6M&t=256s
 #### How the scene was set up 
+I made the gold coin using the shape 'Cylinder'.
 #### Render output
 ![Gold Skull Coin](Blender_Project_Files_V1/Gold_Coin/Skull_Coin.png)
 
@@ -20,21 +22,26 @@
 #### Reference
 ##### https://www.youtube.com/watch?v=tspF37i8p2c&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=2
 #### How the scene was set up 
+I made the ancient ruin rock using the shape 'Cube', extended it and used the knife tool to cut it to make it more rough.
 #### Render output
 ![Ancient Ruins Rock](Blender_Project_Files_V1/Ancient_Ruin_Rock/Ancient_Ruin_Rocks.png) 
 
-### Pirate Rocks and Rocks
+### Pirate Rocks
 #### Reference
 ##### https://www.youtube.com/watch?v=DSrmO3YoNRw&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=2
 #### How the scene was set up 
+I made the pirate rock using the shape 'Cube', used the mirror to make the face and used the knife tool to cut it to make it more rough.
 #### Render output
 ![Pirate Rocks](Blender_Project_Files_V1/Pirate_Rock/Pirate_Rock.png)
 
 ### Rocks
 #### Reference
 ##### https://www.youtube.com/watch?v=DSrmO3YoNRw&list=PLwyAa3_e5GYT0gRpowC7OB1YPHpExF3Wu&index=2
+#### How the scene was set up 
+I made the rocks using the shape 'Cylinder' and 'Cube', changed the cylinder sides to 6 which made it into a hexagonal prism used the knife tool to cut it to make it more rough.
 #### Render output
 ![Rocks](Blender_Project_Files_V1/Rocks/Rocks.png)
+
 
 ##Work done by Arshati
 
