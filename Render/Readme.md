@@ -58,3 +58,20 @@ I made the island with mountains using the shape 'icosphere' with 3 subdivisions
 
 ### Render Output
 ![Floating_Island](Blender_Project_Files_V1/Floating_island_with_mountains_and_water/floating_island_with_mountains_and_water.png)
+
+##WORK DONE BY PRASITHA
+
+###Pirate Ship
+###Reference
+####https://www.youtube.com/watch?v=qFeWNR33b_A&list=PLob6hbUtmU2PLtPpgVO0sKNBuBwP0tQ-z&index=1
+
+####How the scene was set up
+The object was made from a cube that was extended from both sides and bent in the middle to get the boat shape. Then after using various options like S, G, K, R, I was able to get the base of the ship done.
+
+The poles with the sailing masts was done using 2 cylinders and 4 planes that were further edited upon to look like the ship is sailing forward..
+
+I positioned the camera to capture the ship from a side angle and used a pointing light positioned in the left side to get the shadow and colors of the ship after adding different material colors to perfect the model.
+
+###Render Output
+(Blender_Project_Files_V1/ship/FINAL_ship.png)animation/assets/90826319/04b726bb-f8ee-4955-a5db-b9de8b7afa8c)
+
