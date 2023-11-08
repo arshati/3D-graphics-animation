@@ -34,4 +34,4 @@ I first created a new blueprint class for the floating island and I made sure it
 #### Reference
 ##### https://www.youtube.com/watch?v=1f4B67lpI1k&t=89s
 #### How the animation was done
-I first created a new blueprint class for the coin and I made sure it's an actor. When I double-clicked on the blueprint class for the coin the blueprint file popped up. In the file, we added a movement called "Rotation Movement", then we complied and saved the file.
+I initially created a new blueprint class for a coin and ensured it was set as an actor. Upon double-clicking the coin's blueprint class, the blueprint file opened. Within the file, we included a "Rotation Movement" and then saved the changes after compiling.
