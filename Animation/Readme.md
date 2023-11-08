@@ -29,9 +29,19 @@ All the objects that were made in blender using plane, had an issue while import
 
 I first created a new blueprint class for the floating island and I made sure it's an actor. When I double-clicked on the blueprint class for the island the blueprint file popped up. In the file, we created a new timeline
 
+## Work done by Prasitha
+### Ship
+#### Reference
+##### https://www.youtube.com/watch?v=r8ltW7pAN6M&t=256s
+##### https://www.youtube.com/watch?v=I7vg-WXBtXY
+#### How the animation was done
+
+I first created a new blueprint class for the ship and I made sure it's an actor. When I double-clicked on the blueprint class for the ship the blueprint file popped up. In the file, i created a event graph where one of the timeline is the same as the island so that it floats with the island. I added new instructions in the blueprint class as well where it makes the shipe move in a circular path around the island accorinding to the spline line drawn.
+
 ## Work done by Lakshmi 
 ### Coin
 #### Reference
 ##### https://www.youtube.com/watch?v=1f4B67lpI1k&t=89s
 #### How the animation was done
+
 I initially created a new blueprint class for a coin and ensured it was set as an actor. Upon double-clicking the coin's blueprint class, the blueprint file opened. Within the file, we included a "Rotation Movement" and then saved the changes after compiling.
