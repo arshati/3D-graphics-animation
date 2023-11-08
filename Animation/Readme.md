@@ -1,7 +1,7 @@
 # 3D Graphics and Animation Coursework (Part 2)
 
 ## Exporting from Blender
-Before exporting the island we disabled the camera and selected all the objects using A. File -> Export -> .fbx file ->
+Before exporting the island we disabled the camera and selected all the objects using command A . File -> Export -> .fbx file ->
 We adjusted the settings, changed the path mode to copy, limit to selected objects, object type to mesh, and under geometry - smoothing -> normal to face. We exported this FBX file into the unreal project folder. 
 
 ## Importing into Unreal
