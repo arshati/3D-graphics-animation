@@ -34,11 +34,21 @@ data and mesh -> apply modifiers, UV's, models and vertex colors
 export into the opengl folder
 call it in the source cpp file
 
-HOW WE ANIMATED THE MODEL
+HOW WE IMPORTED MULTIPLE OBJECTS
+
+we have multiple objects loaded into the project folder.
+this was done by creating new content variables
+assigning them to the objects
+then calling the content in the needed locations by changing the value of the mosition in the code
+
+HOW WE ANIMATED AND ADDED LIGHTING TO THE MODELS
 
 we added code in the source.cpp where we set the values and positioning to go up and down and looped it.
-this made our island model to go up and down in a floating animation.
+this made our island model to go up and down to show a floating animation.
 we also added values to adjust the speed of the movement as well
+
+to add the lighting we wrote code in the source.cpp file and applied it on the models.
+we also gave shine value to change the intensity of the light and adjust when needed.
 
 HOW WE INTERACTED WITH THE MODEL FOR THE VIDEO
 
