@@ -36,6 +36,10 @@ call it in the source cpp file
 
 HOW WE ANIMATED THE MODEL
 
+we added code in the source.cpp where we set the values and positioning to go up and down and looped it.
+this made our island model to go up and down in a floating animation.
+we also added values to adjust the speed of the movement as well
+
 HOW WE INTERACTED WITH THE MODEL FOR THE VIDEO
 
 We edited the code so that we can interact with the model in the window after running.
